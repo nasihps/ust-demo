@@ -1,1 +1,2 @@
 added new feature text file.
+this feature added for v0.1.
